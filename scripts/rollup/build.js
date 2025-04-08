@@ -850,9 +850,9 @@ async function buildEverything() {
       [bundle, RN_OSS_DEV],
       [bundle, RN_OSS_PROD],
       [bundle, RN_OSS_PROFILING],
-      [bundle, RN_FB_DEV],
-      [bundle, RN_FB_PROD],
-      [bundle, RN_FB_PROFILING],
+      // [bundle, RN_FB_DEV],
+      // [bundle, RN_FB_PROD],
+      // [bundle, RN_FB_PROFILING],
       [bundle, BROWSER_SCRIPT],
       [bundle, CJS_DTS],
       [bundle, ESM_DTS]
